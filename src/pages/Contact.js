@@ -8,7 +8,7 @@ function Contact() {
     <div className='contact' style={{ backgroundImage: `url(${BannerImage})` }}>
         <div className='leftSide' style={{ backgroundImage: `url(${WhatsappQR})` }}></div>
         <div className='rightSide'>
-            <h1> Email Me </h1>
+            <h1> Contact Me </h1>
 
             <form id='contact-form' method='POST'>
                 <label htmlFor='name'> Full Name </label>
