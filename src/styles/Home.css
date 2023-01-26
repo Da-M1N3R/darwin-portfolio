@@ -55,11 +55,11 @@
   }
   
   .headerContainer button:hover {
-    color: black;
+    /* color: black; */
     background-color: red;
     border: 2px solid red;
     cursor: pointer;
-    transition: 0.3s ease-in;
+    transition: auto;
   }
   
   @media only screen and (max-width: 650px) {
@@ -93,13 +93,11 @@
     }
   
     .headerContainer button {
-      background-color: white;
-      color: #121619;
+      background-color: #121619;
       margin-bottom: 30px;
     }
   
     .headerContainer button:hover {
-      background-color: rgb(225, 225, 225);
-      color: #121619;
+      background-color: red;
     }
   }
