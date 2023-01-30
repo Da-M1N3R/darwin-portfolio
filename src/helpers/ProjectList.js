@@ -1,28 +1,29 @@
-import P1 from "../assets/p1.png";
-import P2 from "../assets/p2.png";
-import P3 from "../assets/p3.png";
-import P4 from "../assets/p4.png";
+import P1 from "../assets/opdt.PNG";
+import P2 from "../assets/to-do-list.PNG";
+import P3 from "../assets/content-aggregator.PNG";
+import P4 from "../assets/e-commerce.PNG";
+// Change .PNG to .png (later)
 
 
 export const ProjectList = [
     {
-        name: "Hancock",
+        name: "OPDT",
         image: P1,
-        description: "Project website/Github download link",
+        description: "Build your One Piece Dream Team.",
     },
     {
-        name: "Marco",
+        name: "To-Dor",
         image: P2,
-        description: "First Division Commader of the Whitebread Pirates, The Pheonix",
+        description: "List your task today on here. List your task today on here. List your task today on here. List your task today on here. List your task today on here. List your task today on here. List your task today on here. ",
     },
     {
-        name: "Ulti",
+        name: "Content Aggregator",
         image: P3,
-        description: "Flying Six of the Beast Pirates",
+        description: "Everything you want to know in one page.",
     },
     {
-        name: "Darwin",
+        name: "E-Commerce",
         image: P4,
-        description: "Kaido's Son",
+        description: "Shopee clone.",
     },
 ]
