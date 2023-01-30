@@ -41,6 +41,12 @@
   height: 400px;
   border-radius: 15px;
 }
+.projectUrl {
+  color: red;
+  display: flex;
+  align-items: center;
+}
+
 .projectItems:hover {
   box-shadow: 0px 3px 15px rgb(255, 0, 0);
   transition: 0.3s ease-in;
