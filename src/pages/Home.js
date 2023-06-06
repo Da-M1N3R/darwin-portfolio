@@ -24,7 +24,7 @@ function Home() {
       <div className='headerContainer'>
         <h1> Darwin Raj </h1>
         <p> 
-            Freelancing programmer seeking to dive into the world of Software and Technology. Interested in Blockchain, Data Science, Cryptography and Cybersecurity. Still searhing for the right field. 
+            Self taught Full-Stack Developer with a Mechanical Engineering Degree keen on diving into the world of Science and Technology. Driven to make an impact for the betterment of mankind. 
         </p>
         {/* <p className='resumetext'> Download a copy </p> */}
         {/* <button><a href={ Resume } download>  <DownloadIcon /> RESUME </a></button> */}
